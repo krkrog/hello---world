@@ -1,2 +1,4 @@
 # hello---world
-Just another Repository
+
+
+Hi Im Kristijan, Junior data scientist from Ireland!
